@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor27andre&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor27andre&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+ 
+ 
+  <img height="150" align="right" alt="githubu" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628092339401.png">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +23,8 @@
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=currentColor">  
 </div>
   
+
+</div>
   
   
   ##
