@@ -6,7 +6,7 @@
 </div>
  
  
-  <img height="130" align="right" alt="githubu" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628092339401.png">
+  <img height="130" align="right" alt="githubu" src="https://github.githubassets.com/images/mona-loading-dark.gif">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
