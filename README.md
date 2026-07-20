@@ -1,9 +1,5 @@
-## Victor André  👩‍💻
- <div>
-  <a href="https://github.com/victor27andre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor27andre&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor27andre&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+## Victor André  
+
  
  
   <img height="130" align="right" alt="githubu" src="https://github.githubassets.com/images/mona-loading-dark.gif">
