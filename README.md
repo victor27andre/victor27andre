@@ -76,18 +76,35 @@ I'm a **Software Engineer** and Computer Engineer with **7+ years of experience*
 - Modernization initiatives using **.NET, Azure, microservices and event-driven integrations**
 
 
-## 📊 GitHub snapshot
+## 🎮 Developer mode: ON
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victor27andre&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Victor's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor27andre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Victor's most used languages" />
-</div>
+```csharp
+public class Victor : SoftwareEngineer
+{
+    public string[] MainStack =>
+        [".NET", "C#", "Azure", "Angular", "SQL"];
 
-<div align="center">
+    public string[] SideQuests =>
+        ["AI", "Cloud", "WhatsApp Automation"];
 
-![Contribution Snake](https://github.com/victor27andre/victor27andre/blob/output/github-contribution-grid-snake.svg)
+    public string CurrentMission =>
+        "Building useful things that scale 🚀";
 
-</div>
+    public bool PoweredByCoffee => true;
+
+    public void DailyRoutine()
+    {
+        while (IsCurious)
+        {
+            Learn();
+            Build();
+            Improve();
+        }
+    }
+}
+```
+
+> Status: turning coffee into scalable APIs... ☕
 
 ## 🤝 Let's connect
 
